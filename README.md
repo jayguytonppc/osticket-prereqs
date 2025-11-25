@@ -87,9 +87,8 @@ Install osticket v1.15.8
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/Apj16hR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="732" height="520" alt="Screenshot 2025-11-25 123528" src="https://github.com/user-attachments/assets/43094162-fa79-4dd9-980a-cdcbc235d4ba" />
+
 <p>
 Copy the UPLOAD folder and paste it into C - inetpub - wwwroot, then restart Internet Information Services Manager. IIS Manager can be found in the start menu.
 </p>
